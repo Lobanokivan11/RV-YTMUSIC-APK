@@ -9,7 +9,7 @@ parallel-jobs = 1
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 arch = "arm64-v8a"
-included-patches = "'Predictive back gesture' 'Hide ADB status' 'Export internal data documents provider' 'Enable Android debugging' 'Remove screen capture restriction' 'Override certificate pinning' 'Remove screenshot restriction' 'Hide mock location' 'Export all activities' 'Permanent repeat' 'Permanent shuffle' 'Hide category bar'"
+included-patches = "'Predictive back gesture' 'Export internal data documents provider' 'Enable Android debugging' 'Remove screen capture restriction' 'Override certificate pinning' 'Remove screenshot restriction' 'Hide mock location' 'Export all activities' 'Permanent repeat' 'Permanent shuffle' 'Hide category bar'"
 cli-source = "ReVanced/revanced-cli"
 patches-source = "ReVanced/revanced-patches"
 cli-version = "dev"
